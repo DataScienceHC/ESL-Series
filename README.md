@@ -1,5 +1,5 @@
 # ESL-Series
-ESL Series 以 Hastie, Tibshirani and Friedman (2001) 所著述的 The Elements of Statistical Learning (ESL) 一書為主題所進行討論的讀書會，該會由[DSHC meetup](https://www.facebook.com/DataScienceHC)所主辦。
+ESL Series 是以 Hastie, Tibshirani and Friedman (2001) 所著述的 The Elements of Statistical Learning (ESL) 一書為主題所進行討論的讀書會，該系列由[DSHC meetup](https://www.facebook.com/DataScienceHC)所主辦。
 
 此頁面將提供活動的投影片：
 
