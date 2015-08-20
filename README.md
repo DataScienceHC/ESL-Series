@@ -6,5 +6,5 @@ ESL Series 是以 Hastie, Tibshirani and Friedman (2001) 所著述的 The Elemen
 
 - [Ch2-Overview-of-Supervised-Learning](https://github.com/DataScienceHC/ESL-Series/blob/master/Ch2-Overview-of-Supervised-Learning.pdf) (2015-07-18)
 - [Ch3-Linear-Methods-for-Regression-Shrinkage](https://github.com/DataScienceHC/ESL-Series/blob/master/Ch3-Linear-Methods-for-Regression-Shrinkage.pdf) (2015-08-05)
-- [Ch3-Linear-Methods-for-Regression-Foreward](https://github.com/DataScienceHC/ESL-Series/blob/master/Ch3-Linear%20Methods%20for%20Regression%20-%20Foreward.pdf) (2015-08-19)
+- [Ch3-Linear-Methods-for-Regression-Forward-Type-Selections](https://github.com/DataScienceHC/ESL-Series/blob/master/Ch3-Linear%20Methods%20for%20Regression%20-%20Foreward.pdf) (2015-08-19)
 
