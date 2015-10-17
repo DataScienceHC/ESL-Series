@@ -8,6 +8,7 @@ ESL Series 是以 Hastie, Tibshirani and Friedman (2001) 所著述的 The Elemen
 - [Ch3-Linear-Methods-for-Regression-Shrinkage](https://github.com/DataScienceHC/ESL-Series/blob/master/Ch3-Linear-Methods-for-Regression-Shrinkage.pdf) (2015-08-05)
 - [Ch3-Linear-Methods-for-Regression-Forward-Type-Selections](https://github.com/DataScienceHC/ESL-Series/blob/master/Ch3-Linear-Methods-for-Regression-Foreward-Type-Selections.pdf) (2015-08-19)
 - [Ch3-Linear-Methods-for-Regression-PLS-and-PCR](https://github.com/DataScienceHC/ESL-Series/blob/master/Ch3-Linear-Methods-for-Regression-PLS-and-PCR.pdf) (2015-09-02)
+- [Ch5-Basis-expansion-and-kernel-smoothing-methods](https://github.com/DataScienceHC/ESL-Series/blob/master/Ch5-Basis-expansion-and-kernel-smoothing-methods.pdf) (2015-10-04)
 
 
 
